@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore checkpoints created by Jupyter
+*.ipynb_checkpoints/
+
+# Ignore python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore python virtual environments
+venv/
+.env
